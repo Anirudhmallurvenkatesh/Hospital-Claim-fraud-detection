@@ -4,5 +4,6 @@ Insurance Claim Detector is used by the insurance company to decide whether the 
 ![image](https://user-images.githubusercontent.com/87572274/140042448-5cf20965-f9f3-4fff-adb7-a561b8867b80.png)
 
 ![image](https://user-images.githubusercontent.com/87572274/140042602-53135431-341a-47d1-9eb1-a609a19ce832.png)
+![image](https://user-images.githubusercontent.com/87572274/140042738-f8e60af0-fc41-456b-82cd-62b0c8bf3c78.png)
 
 
