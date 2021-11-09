@@ -35,3 +35,9 @@ Desired Future State
 • Is the data clean and usable, i.e. data quality?
 • Data system sophistication and preparedness
 
+Business Objective
+Insurance Claim Detector is used by the insurance company to decide whether the claimed insurance is Fraud or Genuine. It is an insurance company which provides insurance to Hospitals, depending upon those hospital's details. This model can be used in such a way that by entering hospital details the model will predict whether that particular hospital which claimed for insurance is Fraud or Genuine.
+
+![image](https://user-images.githubusercontent.com/87572274/140879724-85542371-a348-4d32-b27e-15072e72cc46.png)
+
+
